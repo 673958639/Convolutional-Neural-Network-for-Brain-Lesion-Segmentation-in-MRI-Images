@@ -75,7 +75,7 @@ $\text { Dice }=\frac{2 \times|A \cap B|}{|A|+|B|}$
 ![image](https://user-images.githubusercontent.com/63941834/199623876-ffe96682-4309-4830-9a1e-73e190f09b65.png) ![image](https://user-images.githubusercontent.com/63941834/199623889-b6735498-e6d0-45b4-aabc-5cb30f293aa6.png)  
 * After use transfer learning  
 ![image](https://user-images.githubusercontent.com/63941834/199623940-4013dc3c-0354-4bb8-bc8a-437cda136b0d.png) ![image](https://user-images.githubusercontent.com/63941834/199623966-384cbe03-d9f5-456f-9d89-d4fc555682cf.png)
-
+  
 
 
 
