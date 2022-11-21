@@ -1,5 +1,5 @@
 # Convolutional Neural Network for Brain Lesion Segmentation in MRI Images
-In this work, four popular deep convolutional neural networks (U-NET, DeepLab, FCN and SegNet) for image segmentation are constructed and compared. This comparison reveals the tradeoff between achieving effective segmentation and segmentation accuracy. Using deep learning, specifically convolutional neural network methods, to build and train models, brain lesions can be identified from MRI images. After the model was able to identify brain injury, the deep learning model was improved by adjusting the model structure, implementing data enhancement, and searching for optimal hyperparameters. We also elaborate on the implementation details and evaluation criteria to improve its segmentation benchmark and performance based on the original model.
+
 
 # Dataset
 1. We select data from TCIA Brain MRI segmentation dataset, which is provided by the cancer image archive.
